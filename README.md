@@ -9,7 +9,7 @@ This project allows users to track their transactions dynamically using ReactJS 
 Technologies used:
 Languages: Javascript, HTML, CSS, Solidity
 
-Libraries & environment: ReactJS, NodeJS, Web3, Truffle
+Libraries & environment: ReactJS, NodeJS, Web3, Truffle 
 
 # Installation 
 download the repository
